@@ -2,7 +2,7 @@
 
 ## Краткое описание
 
-27.10.2020 23:00 - 27.10.2020 23:30  была проведена проверка [инструкции](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md) по установке OpenJDK 11 для MacOS
+28.10.2020 9:00 - 28.10.2020 9:30 была проведена проверка [инструкции](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md) по установке OpenJDK 11 для MacOS
 
 На тестирование затрачено: ~0.5 часа
 
