@@ -7,9 +7,9 @@
 На тестирование затрачено: ~0.5 часа
 
 В результате тестирования выявлены следующие дефекты:
-* 1
-* 2
-* 3
+* https://github.com/goncharoov/homework-keyvalidator/issues/1
+* https://github.com/goncharoov/homework-keyvalidator/issues/2
+* https://github.com/goncharoov/homework-keyvalidator/issues/3
 
 ## Описание процесса тестирования
 
